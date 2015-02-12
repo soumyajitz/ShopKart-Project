@@ -1,0 +1,123 @@
+#t1
+{ 
+margin-left:20px;}
+#t2
+{ margin-left:20px;}
+#b1
+{ margin-left:20px;}
+#a
+{
+	margin-top:5px;
+	border-radius:15px;
+	}
+	#b{
+		background: #f0f9ff; /* Old browsers */
+background: -moz-linear-gradient(top,  #f0f9ff 0%, #cbebff 27%, #a1dbff 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f0f9ff), color-stop(27%,#cbebff), color-stop(100%,#a1dbff)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #f0f9ff 0%,#cbebff 27%,#a1dbff 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #f0f9ff 0%,#cbebff 27%,#a1dbff 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #f0f9ff 0%,#cbebff 27%,#a1dbff 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #f0f9ff 0%,#cbebff 27%,#a1dbff 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f9ff', endColorstr='#a1dbff',GradientType=0 ); /* IE6-9 */
+
+		border-radius:10px;
+		border:ridge;}
+		fieldset
+		{
+			float:left;
+			margin-left:100px;
+			margin-top:20px;
+			height:400px;
+			width:540px;
+			border-radius:6px;
+			background-color:#E2E2E2;
+			}
+			table{ float:left;
+			margin-top:-80px;
+			}
+			#butt1{margin-left:-40px;
+				padding:10px;
+				padding-left:30px;
+				padding-right:30px;
+				}
+				#date1{padding-left:90px;}
+#container
+{
+	height:640px;
+	width:1350px;
+	background-color:#9FF;
+	border-radius:5px;
+}
+#header1
+{
+	float:left;
+	height:150px;
+	width:1350px;
+	background-color:#96F;
+	border-radius:5px;
+}
+#firstpart
+{
+	position:absolute;
+	background-color:#39F;
+	height:150px;
+	width:1000px;	
+}
+
+#secondpart
+{
+
+	float:right;
+	margin-top:10px;
+	margin-left:10px;
+	background-color:#99C;
+	height:140px;
+	width:350px;	
+}
+#margin1
+{
+	float:left;
+	height:450px;
+	width:300px;
+	background-color:#FC6;
+	border-radius:5px;
+}
+#insider
+{
+	float:left;
+	background-color:#CCF;
+	height:450px;
+	width:1050px;
+	}
+	img
+	{border-radius:20px;}
+	#slide1
+	{float:left;
+	background-color:#9CC;
+	height:350px;
+	width:700px;
+	margin-left:200px;
+	margin-top:50px;
+	}
+a
+{
+	text-decoration:none;
+	background-color:#9CF;
+	border-radius:5px;
+	padding:20px;
+	font-weight:800;
+	font-family:"Comic Sans MS", cursive;
+}
+a:hover
+{
+	font-size:18px;
+	color:#900;
+}
+#footer1
+{
+	float:left;
+	height:40px;
+	width:1350px;
+	background-color:#30F;
+	border-radius:5px;
+}
